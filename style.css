@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    text-shadow: 2px 2px 4px black;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    width: 800px;
+    height: 600px;
+}
+
+.link {
+    float: left;
+    padding: 10px;
+}
+
+.link a {
+    text-decoration: none;
+}
